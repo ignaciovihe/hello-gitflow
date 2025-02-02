@@ -1,1 +1,2 @@
-print("Beautiful content")
+def implementGraphicUI():
+    print("Beautiful content")
