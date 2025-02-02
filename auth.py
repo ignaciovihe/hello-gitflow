@@ -1,1 +1,2 @@
-print("Please, log in V2")
+def authentication():
+    print("Please, log in V2")
